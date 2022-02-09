@@ -48,17 +48,6 @@ The Flight Reservation System does not currently include the following features:
 1. Processing payments
 
 
-##  🤝  Contributors
-[Sanchit Singhal](https://github.com/sanchit2107)
-
-[Shaivi Sinha](https://github.com/ShaiviSinha)
-
-[Shivani Luthra](https://github.com/Shivaniluthra)
-
-[Vaibhav229](https://github.com/ShaiviSinha)
-
-[Anca Simon](https://github.com/ancasimon)
-
 ## For Developers
 #### Access the App
 1. Install Angular CLI if not already installed in your system.
